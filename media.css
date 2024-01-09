@@ -1,0 +1,668 @@
+/* @media (max-width : 1400px) {
+    .container{
+        width: 1200px;
+    }
+} */
+
+
+/* ..........................................  */
+/* ..........................................  */
+/* ..........................................  */
+
+
+@media (max-width : 1200px) {
+
+    /* header..  */
+    .container {
+        width: 960px;
+    }
+
+    .logo {
+        width: 175px;
+    }
+
+    .logo img {
+        padding: 15px;
+    }
+
+    .menu ul li a {
+        font-size: 15px;
+        margin: 0px 8px;
+    }
+
+    #menu-btn a button {
+        font-size: 12px;
+        width: 90px;
+        padding: 1px 15px;
+    }
+   
+
+    /* sec-1....  */
+    .item h3 {
+        font-size: 30px;
+    }
+
+    .item .text {
+        line-height: 45px;
+    }
+
+    .item h3 b {
+        font-size: 34px;
+    }
+
+    span {
+        font-size: 60px;
+    }
+
+    .item button {
+        font-size: 14px;
+        padding: 10px 20px;
+        margin: 20px 0;
+    }
+
+    /* sec-2...  */
+    .section-3 .container {
+        margin: -141px auto 0;
+    }
+
+    .card {
+        padding: 27px 35px;
+
+    }
+
+    .card i {
+        font-size: 30px;
+        margin: 10px;
+    }
+
+    .card h4 {
+        font-size: 14px;
+        margin: 10px;
+    }
+
+    .section-3 .text-part {
+        margin: 66px 0 0 80px;
+    }
+
+    .section-3 .text-part h4 {
+        font-size: 18px;
+        margin: 70px 0 10px 0;
+    }
+
+    .section-3 .text-part h3 {
+        font-size: 25px;
+        margin: 11px 0;
+    }
+
+    .section-3 .text-part p {
+        font-size: 17px;
+        margin: 13px 0;
+        width: 353px;
+    }
+
+    .section-3 .text-part button {
+        padding: 7px 10px;
+        margin: 5px 0;
+        font-size: 11px;
+    }
+
+    .section-3 .img-part {
+        padding: 50px 0 0 0px;
+    }
+
+    /* slider-2  .. */
+
+    .slider-2 {
+        padding: 50px 0px;
+    }
+
+    .detai-part p {
+        width: 543px;
+        color: rgb(132, 131, 131);
+        font-size: 14px;
+    }
+
+    .detai-part h4 {
+        font-size: 18px;
+        margin: 15px 0 7px 0;
+    }
+
+    .detai-part h3 {
+        font-size: 18px;
+    }
+
+    /* footer..  */
+
+    .form {
+        height: 430px;
+        width: 550px;
+    }
+
+    form {
+        width: 360px;
+
+    }
+
+    .last-line {
+        font-size: 16px;
+        padding: 24px 0;
+        margin: 10px 0 0 0;
+    }
+
+    .last-line p {
+        margin: 0px 0 0 74px;
+    }
+}
+
+
+
+/* ..........................................  */
+/* ..........................................  */
+/* ..........................................  */
+
+
+
+@media (max-width : 992px) {
+    .container {
+        width: 720px;
+    }
+
+    .nav {
+        flex-wrap: nowrap;
+    }
+
+    .logo {
+        width: 190px;
+    }
+
+    .logo img {
+        padding: 10px 10px 10px 0;
+        width: 100%;
+    }
+
+    .menu ul {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .menu ul li a {
+        font-size: 16px;
+        margin: 6px 5px;
+        padding: 0 16px;
+    }
+
+    .menu ul li {
+        margin: 5px 0 0;
+    }
+
+    #menu-btn a button {
+        /* background-color: white; */
+        /* color: #de1313; */
+        border: 1px solid red;
+        width: 90px;
+        border-radius: 7px;
+        padding: 2px 5px;
+    }
+
+    .card {
+        padding: 19px 0px;
+    }
+
+    .section-3 .text-part h4 {
+        font-size: 16px;
+        margin: 70px 0 10px 0;
+    }
+
+    .section-3 .text-part h3 {
+        font-size: 22px;
+        margin: 11px 0;
+    }
+
+    .section-3 .text-part p {
+        font-size: 15px;
+        margin: 13px 0;
+        width: 338px;
+    }
+
+    .section-3 .text-part button {
+        padding: 7px 10px;
+        margin: 5px 0;
+        font-size: 10px;
+    }
+
+    .section-3 .text-part {
+        margin: 66px 0 0 90px;
+    }
+
+    .detai-part {
+        margin: 6px;
+        padding: 20px 40px 20px 10px;
+    }
+
+    .detai-part p {
+        width: 455px;
+        color: rgb(132, 131, 131);
+        font-size: 12px;
+    }
+
+    .detai-part {
+        margin: 15px;
+        padding: 20px 40px 20px 10px;
+    }
+
+    .form {
+        height: 424px;
+        width: 500px;
+    }
+
+    .contact h3 {
+        font-size: 25px;
+        color: red;
+        margin: 10px 0 30px;
+    }
+
+    .contact i {
+        color: white;
+        font-size: 18px;
+        background-color: black;
+        padding: 10px;
+        border-radius: 30px;
+    }
+}
+
+
+
+/* ..........................................  */
+/* ..........................................  */
+/* ..........................................  */
+
+
+
+@media (max-width : 768px) {
+
+    /* ...header.... */
+
+    .container {
+        width: 540px;
+    }
+
+    .nav {
+        flex-wrap: nowrap;
+    }
+
+    .logo {
+        width: 150px;
+    }
+
+    .logo img {
+        padding: 10px 10px 10px 0;
+        width: 100%;
+    }
+
+    .menu ul {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .menu ul li a {
+        font-size: 15px;
+        margin: 5px 5px;
+        padding: 0 5px;
+    }
+
+    .menu ul li {
+        margin: 5px 0 0;
+    }
+
+    #menu-btn a button {
+        /* background-color: white; */
+        /* color: #de1313; */
+        border: 1px solid red;
+        width: 90px;
+        border-radius: 7px;
+        padding: 2px 5px;
+    }
+
+    /* ...section(slide)-1...  */
+    .item {
+        height: 400px;
+    }
+
+    .owl-nav {
+        top: -235px;
+    }
+
+    span {
+        font-size: 40px;
+        margin: 15px;
+    }
+
+    .item .text {
+        font-size: 25px;
+        letter-spacing: 1px;
+        line-height: 35px;
+    }
+
+    .item h3 {
+        font-size: 20px;
+    }
+
+    .item h3 b {
+        font-size: 20px;
+    }
+
+    .item button {
+        font-size: 14px;
+        padding: 8px 16px;
+        border: none;
+        border-radius: 8px;
+        margin: 7px 0;
+    }
+
+    /* .....section..3..  */
+
+    /* ..card..  */
+    .card i {
+        font-size: 20px;
+        margin: 5px;
+    }
+
+    .logo-2 {
+        width: 80px;
+        margin: 0px auto;
+    }
+
+    .logo-2 p {
+        font-size: 20px;
+    }
+
+    .logo-2 p b {
+        font-size: 30px;
+    }
+
+    .card h4 {
+        font-size: 13px;
+        text-align: center;
+        margin: 5px 13px;
+    }
+
+    .card {
+        padding: 15px 0px;
+        box-shadow: 0px 2px 15px 1px grey;
+    }
+
+    .section-3 .container {
+        margin: -89px auto 0;
+    }
+
+    /* section-part  */
+    .section-3 .text-part {
+        margin: 35px 0 0 35px;
+    }
+
+    .section-3 .text-part h4 {
+        font-size: 15px;
+        margin: 40px 0 15px 0;
+    }
+
+    .section-3 .text-part h3 {
+        font-size: 20px;
+        margin: 0px 0;
+    }
+
+    .section-3 .text-part p {
+        font-size: 15px;
+        margin: 5px 0;
+        width: 241px;
+    }
+
+    .section-3 .text-part button {
+        padding: 5px 10px;
+        margin: 5px 0;
+        font-size: 10px;
+        border: none;
+        border-radius: 5px;
+    }
+
+    .girl-img {
+        margin: 15px;
+        padding: 15px;
+    }
+
+    .detai-part p {
+        width: 348px;
+        color: rgb(132, 131, 131);
+        font-size: 11px;
+    }
+
+    .detai-part {
+        margin: 10px;
+        padding: 10px 20px 10px 5px;
+    }
+
+    .detai-part h4 {
+        font-size: 15px;
+        text-align: center;
+        margin: 7px 0 2px;
+    }
+
+    .detai-part h3 {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .slider-2 {
+        padding: 50px 0 50px;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+        font-size: 14px;
+    }
+    .slick-prev {
+        left: 0;
+        z-index: 5;
+    }
+
+    .slick-next {
+        right: 5px;
+        z-index: 5;
+    }
+    /* ... footer...  */
+
+
+    .contact h5 {
+        margin: 2px 0;
+        font-size: 15px;
+    }
+
+    .contact h3 {
+        font-size: 17px;
+        margin: 7px 0 15px;
+    }
+
+    .contact i {
+        font-size: 12px;
+        padding: 8px;
+    }
+
+    .contact p {
+        font-size: 13px;
+    }
+
+    .contact h4 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .last-line {
+        font-size: 10px;
+        padding: 13px 0;
+        margin: 20px 0 0;
+    }
+
+    .last-line p {
+        margin: 0 0 0 35px;
+    }
+
+    .form {
+        height: 300px;
+        width: 320px;
+    }
+
+    form {
+        width: 270px;
+    }
+
+    #submit {
+        font-size: 10px;
+        margin: 9px 0;
+        width: 70px;
+    }
+
+    form input {
+        margin: 5px 1px;
+        padding: 3px;
+    }
+
+    input::placeholder {
+        font-size: 10px;
+    }
+
+    form input:hover {
+        box-shadow: 0px 0px 5px 0px white;
+    }
+
+    textarea::placeholder {
+        font-size: 10px;
+    }
+
+    textarea:hover {
+        box-shadow: 0px 0px 5px 0px white;
+    }
+
+    #radio {
+        width: 10px;
+    }
+
+    .rd-box ins {
+        font-size: 10px;
+    }
+}
+
+
+/* ..........................................  */
+/* ..........................................  */
+/* ..........................................  */
+
+
+
+@media (max-width : 576px) {
+    .container {
+        width: 350px;
+    }
+
+    #menu {
+        display: none;
+        width: 149px;
+        background-color: #5c4c40;
+        margin: 0px 0 0 0;
+        position: absolute;
+        top: 71px;
+        right: 0;
+    }
+
+    #menu ul li a {
+        color: #fff;
+
+    }
+
+    #toggle {
+        display: block;
+    }
+
+    .item {
+        height: 300px;
+    }
+
+    .owl-nav {
+        top: -160px;
+    }
+
+    .section-3 .container {
+        margin: 0 auto;
+    }
+
+    .card-row {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .card {
+        margin: 10px auto;
+        width: 75%;
+    }
+
+    .col-35,
+    .col-55 {
+        width: 100%;
+    }
+
+    .text-part {
+        margin: 0;
+        text-align: center;
+    }
+
+    .text-part p {
+        /* margin: 0 auto; */
+        display: none;
+    }
+
+    .slider-2 {
+        padding: 0;
+    }
+
+    .slide-part {
+        background-color: #f0f0f0;
+        display: block;
+    }
+
+    .girl-img {
+        width: 50%;
+        margin: 0 auto;
+        /* padding: 15px; */
+    }
+
+    .detai-part {
+        margin: 0 auto;
+        padding: 5px 0;
+        /* margin: 10px; */
+        /* padding: 10px 20px 10px 5px; */
+    }
+
+    .detai-part p {
+        display: none;
+        width: 348px;
+        color: rgb(132, 131, 131);
+        font-size: 11px;
+    }
+
+    footer {
+        margin: 25px 0 0;
+        position: relative;
+    }
+
+    .form {
+        display: none;
+    }
+
+    .form,
+    .col-50,
+    .col-12,
+    .col-80 {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+}
